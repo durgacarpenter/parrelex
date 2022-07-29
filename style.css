@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.parallaxone{
+    width: 1850px;
+    height: 600px;
+    background: url("http://www.bestsquarefeet.com/wp-content/uploads/2013/01/Commercial1.jpg") no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.parallaxone h2{
+    position: relative;
+    left: 500px;
+    top: 300px;
+    width: 200px;
+    height: 31px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.parallaxtwo{
+    background: url('http://www.pixelstalk.net/wp-content/uploads/2016/05/Bubble-Backgrounds.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 400px;
+    width: 1800px;
+}
+.parallaxtwo h2{
+    position: relative;
+    left: 500px;
+    top: 300px;
+    width: 200px;
+    height: 31px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.para{
+    padding: 50px;
+    text-align: center;
+    height: 100px;
+    background-color: black;
+    color: white;
+    font-size: 30px;
+
+}
+.para1{
+    padding: 50px;
+    text-align: center;
+    height: 100px;
+    background-color:black;
+    color:white;
+    font-size: 30px;
+
+}
+.parallaxthree{
+    width: 1800px;
+    height: 400px;
+    background: url('https://tse1.mm.bing.net/th?id=OIP.PVOhIhZ2cfFJVWI3U9WG6AHaE7&pid=Api&P=0') center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.parallaxthree h2{
+    position: relative;
+    left: 500px;
+    top: 300px;
+    width: 300px;
+    height: 31px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
